@@ -19,6 +19,5 @@ public class string_buffer {
     String appendString = sc.nextLine();
     sb3.append(appendString);
     System.out.println("String after appending: " + sb3);
-
     }
 }
